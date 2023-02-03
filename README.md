@@ -1,4 +1,4 @@
-_**Another**_ landing page! 😂
+_**Another**_ landing page! 😂 (mobile optimized)
 
 🧑‍💻 Live demo: https://airplane-landing-page-woad.vercel.app/
 
